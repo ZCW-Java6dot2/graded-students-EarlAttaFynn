@@ -246,13 +246,7 @@
 		* Sample Output
 		
 			```
-			Student Name: Leon Hunter
-			> Average Score: 125
-			> Exam Scores:
-			    Exam 1 -> 100
-			    Exam 2 -> 150
-			    Exam 3 -> 250
-			    Exam 4 -> 0
+			getAverageExamScore()
 			```
 			
 			
